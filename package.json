@@ -1,0 +1,27 @@
+{
+  "name": "destructor",
+  "version": "0.0.0",
+  "description": "A game made with PhaserJS",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sugendran/destructor.git"
+  },
+  "author": "Sugendran Ganess",
+  "license": "CC BY-NC 4.0",
+  "bugs": {
+    "url": "https://github.com/sugendran/destructor/issues"
+  },
+  "homepage": "http://sugendran.github.io/destructor/",
+  "devDependencies": {
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt": "^0.4.4",
+    "almond": "^0.2.9"
+  }
+}

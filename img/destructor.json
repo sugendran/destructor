@@ -17,8 +17,32 @@
 	"sourceSize": {"w":50,"h":4}
 },
 {
+	"filename": "shadow.png",
+	"frame": {"x":184,"y":2,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+{
+	"filename": "splat.png",
+	"frame": {"x":2,"y":48,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+{
+	"filename": "splat2.png",
+	"frame": {"x":48,"y":48,"w":44,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":44},
+	"sourceSize": {"w":44,"h":44}
+},
+{
 	"filename": "tank.png",
-	"frame": {"x":184,"y":2,"w":100,"h":165},
+	"frame": {"x":94,"y":48,"w":100,"h":165},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":165},
@@ -26,7 +50,7 @@
 },
 {
 	"filename": "tankshadow.png",
-	"frame": {"x":286,"y":2,"w":200,"h":330},
+	"frame": {"x":2,"y":215,"w":200,"h":330},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":330},
@@ -34,7 +58,7 @@
 },
 {
 	"filename": "trucker0.png",
-	"frame": {"x":2,"y":334,"w":63,"h":44},
+	"frame": {"x":2,"y":547,"w":63,"h":44},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":44},
@@ -42,7 +66,7 @@
 },
 {
 	"filename": "trucker1.png",
-	"frame": {"x":67,"y":334,"w":57,"h":44},
+	"frame": {"x":67,"y":547,"w":57,"h":44},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":44},
@@ -50,7 +74,7 @@
 },
 {
 	"filename": "trucker2.png",
-	"frame": {"x":126,"y":334,"w":55,"h":44},
+	"frame": {"x":126,"y":547,"w":55,"h":44},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":44},
@@ -58,7 +82,7 @@
 },
 {
 	"filename": "trucker3.png",
-	"frame": {"x":183,"y":334,"w":55,"h":44},
+	"frame": {"x":183,"y":547,"w":55,"h":44},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":44},
@@ -66,7 +90,7 @@
 },
 {
 	"filename": "trucker4.png",
-	"frame": {"x":240,"y":334,"w":57,"h":43},
+	"frame": {"x":2,"y":593,"w":57,"h":43},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":43},
@@ -74,7 +98,7 @@
 },
 {
 	"filename": "trucker5.png",
-	"frame": {"x":299,"y":334,"w":61,"h":43},
+	"frame": {"x":61,"y":593,"w":61,"h":43},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":43},
@@ -82,7 +106,7 @@
 },
 {
 	"filename": "trucker6.png",
-	"frame": {"x":362,"y":334,"w":55,"h":43},
+	"frame": {"x":124,"y":593,"w":55,"h":43},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":43},
@@ -90,7 +114,7 @@
 },
 {
 	"filename": "trucker7.png",
-	"frame": {"x":419,"y":334,"w":59,"h":44},
+	"frame": {"x":181,"y":593,"w":59,"h":44},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":44},
@@ -98,7 +122,7 @@
 },
 {
 	"filename": "zombie0.png",
-	"frame": {"x":2,"y":380,"w":60,"h":59},
+	"frame": {"x":2,"y":639,"w":60,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":59},
@@ -106,7 +130,7 @@
 },
 {
 	"filename": "zombie1.png",
-	"frame": {"x":64,"y":380,"w":58,"h":59},
+	"frame": {"x":64,"y":639,"w":58,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":59},
@@ -114,7 +138,7 @@
 },
 {
 	"filename": "zombie2.png",
-	"frame": {"x":124,"y":380,"w":59,"h":59},
+	"frame": {"x":124,"y":639,"w":59,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
@@ -122,7 +146,7 @@
 },
 {
 	"filename": "zombie3.png",
-	"frame": {"x":185,"y":380,"w":64,"h":59},
+	"frame": {"x":185,"y":639,"w":64,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":59},
@@ -130,7 +154,7 @@
 },
 {
 	"filename": "zombie4.png",
-	"frame": {"x":251,"y":380,"w":59,"h":59},
+	"frame": {"x":2,"y":700,"w":59,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
@@ -138,7 +162,7 @@
 },
 {
 	"filename": "zombie5.png",
-	"frame": {"x":312,"y":380,"w":58,"h":59},
+	"frame": {"x":63,"y":700,"w":58,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":59},
@@ -146,7 +170,7 @@
 },
 {
 	"filename": "zombie6.png",
-	"frame": {"x":372,"y":380,"w":59,"h":59},
+	"frame": {"x":123,"y":700,"w":59,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
@@ -154,7 +178,7 @@
 },
 {
 	"filename": "zombie7.png",
-	"frame": {"x":433,"y":380,"w":64,"h":59},
+	"frame": {"x":184,"y":700,"w":64,"h":59},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":59},
@@ -165,8 +189,8 @@
 	"version": "1.0",
 	"image": "destructor.png",
 	"format": "RGBA8888",
-	"size": {"w":512,"h":512},
+	"size": {"w":256,"h":1024},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:db5d4e3e2e0fbc23a2baf4f7cf1fe45b:623422023569489adc00c6adb2de205e:9f73c19519ed0e64b066b6b938433033$"
+	"smartupdate": "$TexturePacker:SmartUpdate:7bcef8fd6d38659ce5f2e7e18feed524:f928502bbe8d87be4556c58f3f56d772:9f73c19519ed0e64b066b6b938433033$"
 }
 }
