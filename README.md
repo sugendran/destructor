@@ -1,4 +1,4 @@
-This game is made using phaserjs.
+This game is made using phaserjs. It is hosted over here: http://sugendran.github.io/destructor/
 
 The zombie sprites are from http://2dgameartforprogrammers.blogspot.com/2014/02/top-down-view-zombies.html
 
